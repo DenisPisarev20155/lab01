@@ -86,7 +86,7 @@ void TurnRight(){
 /// Стартовая функция
 ///
 int main() {
-    LoadWorld("worlds/Double_beepers_01.w");
+    LoadWorld("worlds/Double_beepers_02.w");
     moveKarel();
     Finish();
     return 0;
